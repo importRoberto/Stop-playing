@@ -4,7 +4,7 @@ import os
 import platform
 
 # Tempo principal + tempo de encerramento, em segundos
-TEMPO_PROCESSO = 35
+TEMPO_PROCESSO = 35 * 60
 TEMPO_EXTRA = 20
 
 # Tempo em que o som fica ligado, em milissegundos
